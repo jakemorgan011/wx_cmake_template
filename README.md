@@ -1,8 +1,3 @@
-Download, build and statically link wxWidgets as the GUI library for your C++ project!
-
-[![Video](/output.gif)](https://www.youtube.com/watch?v=zjNg5HdgNO0)
-
-Full Tutorial: https://www.youtube.com/watch?v=zjNg5HdgNO0
 
 ```cmake
 cmake_minimum_required(VERSION 3.14 FATAL_ERROR)
